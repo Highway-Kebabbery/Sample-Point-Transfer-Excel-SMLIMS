@@ -21,14 +21,14 @@ The sole feature of this script is to open SampleManager LIMS, navigate to the S
 
 The sleep times were manually optimized where applicable to complete the data entry as fast as possible while accounting for occasional system latency. In many cases, I used a pre-built method to wait for windows to become available in order to prevent the program from running too fast.
 
-An improvement upon past works of mine which were similar is the use of the built-in window activation method. With this improvement, windows need not be placed in precisely the correct location on the screen as all coordinates descripbe points relative to the origin of the active window as opposed to being an absolute position on the screen. The windows need only be large enough to display all required items without scrolling.
+An improvement upon past works of mine which were similar is the use of the built-in window activation method. With this improvement, windows need not be placed in precisely the correct location on the screen as all coordinates describe points relative to the origin of the active window as opposed to being an absolute position on the screen. The windows need only be large enough to display all required items without scrolling.
 
 
 ## How to Use
 ### Software Requirements:
 * SampleManager LIMS version 12
 * Microsoft Excel
-* AutoHotKeys
+* AutoHotkey
 
 ### Instructions
 1. Log into the "Prod" environment of SampleManager LIMS.
@@ -39,7 +39,7 @@ An improvement upon past works of mine which were similar is the use of the buil
 
 
 ## Technologies
-* **AutoHotKeys (AHK):** AutoHotKeys was chosen because I did not have access to any sort of API for the information management system software. As such, I wasn't able to communicate directly with the software and had to resort to a macro. I have used AHK in the past to great effect and I was already fairly familiar with the capabilities. I did not need anything more complicated than AHK to solve this problem.
+* **AutoHotkey (AHK):** AutoHotkey was chosen because I did not have access to any sort of API for the information management system software. As such, I wasn't able to communicate directly with the software and had to resort to a macro. I have used AHK in the past to great effect and I was already fairly familiar with the capabilities. I did not need anything more complicated than AHK to solve this problem.
 
 ## Collaborators:
 I developed this simple script by myself.
