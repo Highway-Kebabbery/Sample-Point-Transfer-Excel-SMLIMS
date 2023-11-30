@@ -12,7 +12,7 @@ Rather than try to change anything in this script to relfect what I've learned s
 
 Since this is the beginning of my portfolio, I will note that this script is reminiscent of a handful of Runescape bots that I wrote in high school and following my college graduation, so it also serves as a representative for sevaral of my lost works. The key differences in the Runescape bots I wrote were: 1) I did not know about the commands for activating windows by name, so I had to place windows in precisely the correct position which made my past scripts less flexible, and 2) to avoid detection by the bot monitoring systems, I included a randomization function for the pixel coordinates on every click the Runescape bots made.
 
-### Why I Published this Work
+### Why I'm Showcasing this Work
 I wrote this script on company time. However, it is in no way related to any product that my former employer sells. It is essentially a single-use tool written by me to solve a problem they will likely only encounter 2-3 more times worldwide; a problem which they anticipate paying people to solve manually. Furthermore, I would not expect the average employee in my former role to be able to pick this script up with no oversight and use it to complete the task themselves, so I don't realistically believe that it is of value to the company any longer. Nothing in this script reveals anything related to company intellectual property (aside from the script itself). The only remaining value of the script is to document that I applied programming knowledge to solve a real problem, that I saved my employer thousands of dollars, and that I saved myself weeks of time by executing this project.
 
 
@@ -41,5 +41,6 @@ An improvement upon past works of mine which were similar is the use of the buil
 ## Technologies
 * **AutoHotkey (AHK):** AutoHotkey was chosen because I did not have access to any sort of API for the information management system software. As such, I wasn't able to communicate directly with the software and had to resort to a macro. I have used AHK in the past to great effect and I was already fairly familiar with the capabilities. I did not need anything more complicated than AHK to solve this problem.
 
+
 ## Collaborators:
-I developed this simple script by myself.
+I developed this script by myself.
